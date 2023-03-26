@@ -5,3 +5,12 @@ an insurance company may have to pay to the policyholder in case of the event in
 
 We have limited information on the predictors, in practice there are more and different types of predictors,  final set of predictors includesvariables Age, 
 Weekly Wages, Hours Worked Per Week, Days Worked Per Week, Marital Status, Dependent Children, Dependent Others, Part-time/Full-time job, and Initial Claim Cost.
+
+# Methods Used are as follows
+- Linear Regression
+- Polynomial Regression
+- Generalized Additive Models
+- Bagging Regression
+- Random Forest Regression
+- Gradient Boosting Regression
+- Artificial Neural Network
